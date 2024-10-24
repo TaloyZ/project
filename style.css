@@ -1,0 +1,40 @@
+body {
+  background-color: #152c36; 
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+.container { 
+  width: 80%;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #5ad7db; 
+  box-shadow: 0 0 10px rgba(213, 210, 224, 0.1);
+}
+
+.box {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #72f167;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #337ab7;
+}
+
+a:hover {
+  color: #23527c;
+}
